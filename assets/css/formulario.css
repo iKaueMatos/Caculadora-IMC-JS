@@ -18,13 +18,13 @@ form input, form label, form button {
   
   form input:focus {
     outline: 1px solid var(--primary-color);
-    border: 2px solid rgb(72, 136, 247);
+    border: 2px solid rgb(18, 102, 248);
   }
   
   form button {
     border: none;
-    background: var(--primary-color);
-    color: #fff;
+    background:rgb(16, 72, 255);
+    color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 700;
     height: 50px;
@@ -44,6 +44,7 @@ form input, form label, form button {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     
   }
+
   
 ::placeholder{
   font-size: 20px;
